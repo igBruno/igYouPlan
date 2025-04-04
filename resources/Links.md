@@ -15,4 +15,3 @@
 ## Pygame Projects:
 - https://www.pygame.org/tags/all (All base pygame example games )
 - https://www.pygame.org/project/3973 (Battletanks a multiplayer using tcp/ip sockets)
-- https://trinket.io/features/pygame (Running pygame on browser with Trinket)

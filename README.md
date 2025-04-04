@@ -23,3 +23,5 @@ The main purpose of this repository is to catalg and document You Plan objective
 - Create tutorial based games that foster necessary skills
 - Create game
 
+# Resources
+[/resources/Links](https://github.com/igBruno/igYouPlan/blob/igYouPlan_resources/resources/Links.md)
